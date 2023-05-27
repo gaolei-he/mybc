@@ -1,3 +1,8 @@
+# how to use
+# cd ./build
+# cmake ..
+# make
+# it will generate a executable file in bin directory
 cmake_minimum_required(VERSION 3.2)#规定cmake的最低版本要求
 project(project)#项目名称
 set(CMAKE_CXX_COMPILER "g++")#设置c++编译器
