@@ -49,7 +49,7 @@ DESCRIPTION
         var = expr
             The variable is assigned the value of the expression.
 
-AUTOOR
+AUTHOR
     Gaolei He, Wenkai Li, Wenjie Zhang
     ahegaolei@163.com
     2022.07.17
